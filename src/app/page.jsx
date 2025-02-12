@@ -18,12 +18,12 @@ export default function Home() {
       <Header />
       <main className="container mx-auto p-12 pt-0">
       <header className="">
-        <img src="/images/prof.jpeg" alt="Profile" className="rounded-full w-24 h-24 mb-5" />
+        <img src="/images/ProfilePortfolio.jpg" alt="Profile" className="rounded-full w-24 h-24 mb-5" />
         <h1 className="text-4xl font-bold max-w-[50%]">
-          Software engineer, father, and believer.
+          Mechanical Engineer & Software Developer
         </h1>
         <p className=" max-w-[60%] mt-6" style={{ color: 'var(--paragraph-color)' }}>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Error qui alias odio unde nam, eos accusantium temporibus odit ea, et accusamus sunt maxime neque, ad pariatur dignissimos sit consectetur minima? Lorem ipsum dolor sit amet consectetur adipisicing elit. Non iusto maxime veritatis? Facilis laudantium, error recusandae, animi quasi nemo odit debitis dolor similique eveniet quae sunt cupiditate vitae minus placeat!
+        Highly motivated and detail-oriented mechanical engineer with strong skills in math, programming, and instructional design. Excels at developing innovative solutions to complex problems and collaborating with teams to achieve project goals.
         </p>
         <div className="flex justify-left space-x-4 mt-7">
           <a href="https://twitter.com/yourprofile" className="text-blue-500" target="_blank" rel="noopener noreferrer">

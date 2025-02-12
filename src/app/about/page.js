@@ -1,6 +1,6 @@
 import Head from 'next/head';
-import Header from '/workspaces/cs220-portfolio-portfolio-d-u-2025/src/components/Header.jsx'; // Adjust the path based on your structure
-import FooterSection from '/workspaces/cs220-portfolio-portfolio-d-u-2025/src/components/Footer1/FooterSection.jsx';
+import Header from '/workspaces/PORTFOLIO/src/components/Header.jsx'; // Adjust the path based on your structure
+import FooterSection from '/workspaces/PORTFOLIO/src/components/Footer1/FooterSection.jsx';
 
 export default function About() {
   return (

@@ -1,4 +1,4 @@
-import UsesSection from '/workspaces/cs220-portfolio-portfolio-d-u-2025/src/components/UsesSection/UsesSection.jsx';
+import UsesSection from '/workspaces/PORTFOLIO/src/components/UsesSection/UsesSection.jsx';
 
 const items = [
   {
