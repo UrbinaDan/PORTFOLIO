@@ -13,58 +13,22 @@ export default function About() {
       <main className="container mx-auto p-12 pt-0">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
         <div className="col-span-2 md:col-span-1">
-            <h1 className="text-6xl font-bold mt-6">I am Jane I live in New York City, Where I develop the Future</h1>
+            <h1 className="text-6xl font-bold mt-6">I am Daniel I am a Colombian living in the US, Where I develop the Future</h1>
           <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+          My name is Daniel Felipe Urbina Sierra, and I am a student at Ensign College studying Software Engineering. I am a dedicated mechanical engineer and software developer. I am passionate about creating innovative solutions and continuously looking for ways to enhance my skills and knowledge. Currently, I work as an Instructional Design Assistant at Ensign College, where I develop interactive educational activities and automate processes to increase efficiency.
     </p>
     <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+    My journey began in Bogotá, Colombia, where I completed my degree in Mechanical Engineering at the National University of Colombia. Throughout my career, I have had the opportunity to work on diverse projects, from developing a robot quail feeder to creating a GUI for AI applications with OAK-D cameras.
     </p>
     <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+    I believe in the power of education and strive to make learning accessible to all. This belief led me to win the TPI EXPOIDEAS + 2020 contest with a project aimed at providing educational resources to students who can't afford formal preparatory courses.
     </p>
     <p className="mt-6" style={{ color: 'var(--paragraph-color)' }}>
-      My name is David Uche, I am a student at the University of Regina studying Computer Science.
-      I am a software engineer, father, and believer. I am passionate about software engineering and
-      I am always looking for ways to improve my skills. I am also a father to a beautiful daughter and
-      I am a believer in God. I am always looking for ways to improve my skills and I am always looking
-      for ways to improve my skills. I am always looking for ways to improve my skills and I am always
-      looking for ways to improve my skills. I am always looking for ways to improve my skills and
-      I am always looking for ways to improve my skills. I am always looking for ways to improve my
-      skills and I am always looking for ways to improve my skills. I am always looking for ways to
-      improve my skills and I am always looking for ways to improve my skills. I am always looking
-      for ways to improve my skills and I am always looking for ways to improve my skills.
+    I am fluent in both English and Spanish and have strong programming skills in Python, JavaScript, HTML, and CSS. I am also experienced with tools like MATLAB, AutoCAD, Adobe Illustrator, and Microsoft Office. In my free time, I enjoy tutoring students in math, physics, chemistry, and engineering, sharing my knowledge and helping others succeed. I am always eager to take on new challenges and work collaboratively with teams to achieve project goals.
     </p>
         </div>
         <aside className="col-span-2 md:col-span-1 mt-8 md:mt-0 flex justify-center flex-col self-start">
-            <img src="images/prof.jpeg" alt="Profile Picture" className="rounded-full order-first md:order-none flex justify" />
+            <img src="images/ProfilePortfolio.jpg" alt="Profile Picture" className="rounded-full order-first md:order-none flex justify" />
             <div className="order-last md:order-none">
               <p className="mt-7 ml-9">
                 <div className="flex flex-col space-y-4 mt-7">
@@ -101,7 +65,7 @@ export default function About() {
                     <path d="M12 13.287l9.11-6.527C20.854 5.517 20.202 5 19.47 5H4.53c-.732 0-1.384.517-1.64 1.186L12 13.287zM2 6.877l8.225 5.841c.202.144.446.217.687.217s.485-.073.687-.217L22 6.877V19c0 .732-.594 1.328-1.328 1.328H3.328A1.328 1.328 0 012 19V6.877z" />
                     </svg>
                   </a>
-                     Jane@gmail.com
+                     dfurbinasierra@gmail.com
                   </p>
                 </div>
               </p>

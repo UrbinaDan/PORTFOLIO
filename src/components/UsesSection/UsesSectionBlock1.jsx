@@ -2,52 +2,42 @@ import UsesSection from '/workspaces/PORTFOLIO/src/components/UsesSection/UsesSe
 
 const items = [
   {
-    groupName: 'Workstation',
+    groupName: 'Programming Languages',
     items: [
       {
-        title: 'Item Name',
+        title: 'Python',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, sunt quod. Similique ut odio placeat totam molestias deserunt aliquam. Consectetur rerum natus impedit neque iure assumenda ipsa vero ad ut.',
+          'Used for scripting and automating processes in instructional design at BYU and creating GUIs for OAK-D cameras.',
       },
       {
-        title: 'Dell UltraSharp U2717D',
+        title: 'JavaScript, HTML, CSS',
         description:
-          'I have two of these monitors and they’re great. I’ve had them for years and they’ve been rock solid.',
+          'Developed interactive web activities and pages for BYUs continuing education courses and Ensign College courses.',
       },
       {
-        title: 'Keychron K2',
+        title: 'MATLAB/SCILAB',
         description:
-          'I’ve been using this keyboard for a few years now and I love it. It’s wireless, has a great feel, and the battery lasts forever.',
+          'Epecialized knowledge in these for various engineering applications and Math calculations.',
       },
       {
-        title: 'Logitech MX Master 3',
+        title: 'LaTex',
         description:
-          'I’ve been using this mouse for a few years now and it’s great. It’s wireless, has a great feel, and the battery lasts forever.',
-      },
-      {
-        title: 'Audio-Technica ATH-M50x',
-        description:
-          'I’ve been using these headphones for a few years now and they’re great. They’re comfortable, sound good, and are built like a tank.',
-      },
-      {
-        title: 'Rain Design mStand',
-        description:
-          'I’ve been using this stand for my MacBook Pro for a few years now and it’s great. It’s sturdy, looks good, and keeps my laptop cool.',
+          'For creating well-formatted academic and technical documents or formatting Math formulas in the web.',
       },
     ],
   },
   {
-    groupName: 'Development',
+    groupName: '3D Design Software',
     items: [
       {
-        title: 'Visual Studio Code',
+        title: 'AutoCAD-Inventor',
         description:
-          'I use VS Code for all of my development work. It’s fast, has great extensions, and is highly customizable.',
+          'Used extensively for designing mechanical components and creating 3D models.',
       },
       {
-        title: 'iTerm2 + Oh My Zsh',
+        title: 'Maya',
         description:
-          'I use iTerm2 as my terminal and Oh My Zsh as my shell. It’s a great combination. I use the Agnoster theme with the Fira Code font.',
+          'Used for non-Engineering or mechanical 3D designs',
       },
     ],
   },
@@ -67,17 +57,12 @@ const items = [
     ],
   },
   {
-    groupName: 'Productivity',
+    groupName: 'Other Tools',
     items: [
       {
-        title: 'Notion',
+        title: 'Adobe Illustrator, Microsoft Office',
         description:
-          'I use Notion for all of my note-taking and knowledge management. It’s fast, has great collaboration features, and is highly customizable.',
-      },
-      {
-        title: 'Alfred',
-        description:
-          'I use Alfred for all of my productivity needs. It’s fast, has great features, and is highly customizable.',
+          'For creating professional documents and designs.',
       },
     ],
   },

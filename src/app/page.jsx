@@ -48,8 +48,8 @@ export default function Home() {
 
         <aside className="mt-8 md:mt-0">
           <SignupWidget
-            title={'Stay up to date'}
-            content={'Get notified when I publish something new, and unsubscribe at any time.'}
+            title={'Lets Get in contact'}
+            content={'Enter your email and I will reply back to get in contact with you.'}
           />
           <WorkSection />
           <SkillsSection />

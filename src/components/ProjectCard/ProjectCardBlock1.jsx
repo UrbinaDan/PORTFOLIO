@@ -4,10 +4,10 @@ function ProjectCardBlock1() {
   return (
     <>
       <ProjectCard
-        name={'Company'}
-        logo={'images/company.png'}
+        name={'BYU'}
+        logo={'images/BYU.png'}
         content={
-          'Creating technology to empower xivilians to explore space on their own terms.'
+          'Developed interactive activities and web pages using JavaScript, CSS, and HTML for BYUs continuing education. Collaborated with the math team to create accessible and copyright-safe courses on MLS platforms like Canvas and Buzz, and automated repetitive tasks with Python scripts.'
         }
         link={'https://www.ensign.edu/'}
       />
